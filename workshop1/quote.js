@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Ottawa", "London", "Washington, D.C.", "Moscow", "Vienna", "Dublin"];
+var things = ["Oklahoma", "Alabama", "Alaska", "Oregon", "New York (The best state)", "Texas"];
 var programmers = ["Lisbon", "Madrid", "Andorra", "Rome", "Paris", "Berlin"]
 var castles = ["Copenhagen", "Oslo", "Stockholm"]
 var exertions = ["Ankara", "Athens", "Mexico City", "Paris", "Tokyo", "Nairobe", "Tel Aviv"];
